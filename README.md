@@ -9,4 +9,4 @@ test333
 
 
 
-![Test](Pic/cat.jpg)
+![Test](Pic/cat.png)
