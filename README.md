@@ -6,8 +6,8 @@ test222
 test333
 test444
 
-![test](Pic/1.png)
+![test](Images/1.png)
 
 
 
-![Test](Pic/cat.png)
+![Test](Images/cat.png)
